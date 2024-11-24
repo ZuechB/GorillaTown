@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: e65552dfe046a3a4791a1a7fe6d5fe3f
+timeCreated: 1524277123
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 117160
+  packageName: '"Junko chan !!" Model'
+  packageVersion: 1.1
+  assetPath: Assets/JunkoChan/Models/Materials/JunkoItemTexture.mat
+  uploadId: 286409
